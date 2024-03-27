@@ -14,9 +14,9 @@ In this project, we utilize deep learning techniques to address three fundamenta
 
 The repository is structured as follows:
 
-- **/classification**: Contains code of image classification.
-- **/segmentation**: Contains code of image segmentation.
-- **/object_detection**: Contains code of object detection.
+- **/Imageclassification**: Contains code of image classification.
+- **/Imagesegmentation**: Contains code of image segmentation.
+- **/objectdetection**: Contains code of object detection.
 
 Clone the repository:
 
